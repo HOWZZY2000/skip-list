@@ -38,7 +38,7 @@ i 90 18
 i 201 22
 p
 ~~~
-Could give something like (Only keys will be displayed):
+Could give something like (Only keys will be printed):
 ~~~
 -inf ----------------------------- - inf
 -inf - 1 ------------------------- - inf
@@ -54,7 +54,7 @@ Deleting from the above object:
 ~~~
 d 5
 ~~~
-Would give:
+Would print:
 
 ~~~
 -inf ------------------------- - inf
