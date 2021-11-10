@@ -3,6 +3,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
+#include <limits.h>
 
 // linked list node 
 struct Node {
